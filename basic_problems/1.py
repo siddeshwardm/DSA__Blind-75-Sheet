@@ -7,3 +7,7 @@ while n>0:
     n=n//10
 
 print(count)
+
+
+# TC = O(log10(n))
+# SC = O(1)
